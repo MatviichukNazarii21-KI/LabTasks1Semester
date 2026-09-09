@@ -42,9 +42,13 @@ a = 15
 b = 12
 print(a ** b)
 
-print(10 == 10)
-print(10 != 5)
-print(10 > 5)
-print(10 < 5)
-print(10 >= 10)
-print(5 <= 10)
+print(a, type(a))
+print(c, type(c))
+print(f, type(f))
+print(g, type(g))
+print(d, type(d))
+print(h, type(h))
+print(e, type(e))
+print(i, type(i))
+
+
